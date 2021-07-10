@@ -1,18 +1,17 @@
 # Expectation Maximization Algorithm
 
 
-# Coin Toss - Binomial
-# Mixture of Linear Models
-# GMM
-
 
 
 This is the R implementation for  -
-- KMeans 
-- GMM 
-- Expectation Maximization 
+1. Coin Toss - Binomial
+2. Mixture of Linear Models
+3. Gaussian Mixture
 
 
-Chapter 9 PMRL
+<div style='page-break-after: always'></div>
+
+Chapter 9 
+Pattern Recognition and Machine Learning
 
 
